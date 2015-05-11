@@ -1,0 +1,6 @@
+[user]
+	name = Jason Lollback
+	email = 
+[core]
+	excludesfile = ~/.gitignore_global
+
